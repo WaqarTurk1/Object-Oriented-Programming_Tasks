@@ -1,0 +1,5 @@
+Welcome to OOP File handling lab.
+File handling is important.
+we had studied OOP but still we dont have concpets.
+Name: Hassan Ali
+Roll No: 12345
